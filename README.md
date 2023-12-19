@@ -24,7 +24,7 @@
 
 ## Current Focus
 
-🔍 I'm currently deep diving into Cloud Computing and learning Java full stack development.
+🔍 I'm currently deep diving into DevOps.
 
 ## 📬 Get in Touch
 
